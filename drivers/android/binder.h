@@ -20,7 +20,7 @@
 #ifndef _LINUX_BINDER_H
 #define _LINUX_BINDER_H
 
-#include "uapi/binder.h"
+#include <uapi/linux/android/binder.h>
 
 #endif /* _LINUX_BINDER_H */
 
